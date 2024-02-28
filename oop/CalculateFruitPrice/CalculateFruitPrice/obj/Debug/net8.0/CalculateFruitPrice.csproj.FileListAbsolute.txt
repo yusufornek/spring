@@ -1,0 +1,14 @@
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\bin\Debug\net8.0\CalculateFruitPrice.exe
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\bin\Debug\net8.0\CalculateFruitPrice.deps.json
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\bin\Debug\net8.0\CalculateFruitPrice.runtimeconfig.json
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\bin\Debug\net8.0\CalculateFruitPrice.dll
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\bin\Debug\net8.0\CalculateFruitPrice.pdb
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\obj\Debug\net8.0\CalculateFruitPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\obj\Debug\net8.0\CalculateFruitPrice.AssemblyInfoInputs.cache
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\obj\Debug\net8.0\CalculateFruitPrice.AssemblyInfo.cs
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\obj\Debug\net8.0\CalculateFruitPrice.csproj.CoreCompileInputs.cache
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\obj\Debug\net8.0\CalculateFruitPrice.dll
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\obj\Debug\net8.0\refint\CalculateFruitPrice.dll
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\obj\Debug\net8.0\CalculateFruitPrice.pdb
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\obj\Debug\net8.0\CalculateFruitPrice.genruntimeconfig.cache
+C:\Users\test2\Desktop\yusufornek\CalculateFruitPrice\CalculateFruitPrice\obj\Debug\net8.0\ref\CalculateFruitPrice.dll
