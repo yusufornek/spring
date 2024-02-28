@@ -1,0 +1,14 @@
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\bin\Debug\net8.0\variableResulation.exe
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\bin\Debug\net8.0\variableResulation.deps.json
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\bin\Debug\net8.0\variableResulation.runtimeconfig.json
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\bin\Debug\net8.0\variableResulation.dll
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\bin\Debug\net8.0\variableResulation.pdb
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\obj\Debug\net8.0\variableResulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\obj\Debug\net8.0\variableResulation.AssemblyInfoInputs.cache
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\obj\Debug\net8.0\variableResulation.AssemblyInfo.cs
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\obj\Debug\net8.0\variableResulation.csproj.CoreCompileInputs.cache
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\obj\Debug\net8.0\variableResulation.dll
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\obj\Debug\net8.0\refint\variableResulation.dll
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\obj\Debug\net8.0\variableResulation.pdb
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\obj\Debug\net8.0\variableResulation.genruntimeconfig.cache
+C:\Users\test2\Desktop\yusufornek\variableResulation\variableResulation\obj\Debug\net8.0\ref\variableResulation.dll
