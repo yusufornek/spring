@@ -2,10 +2,15 @@ body{background-color: pink;
     color: purple;
     font-family: Arial;
     font-size: 90%;}
-h1{color: blue;}
+
+h1{color: blue;
+    color: green;
+    color: red;} /* En son yazılan geçerli olur! */
 h2{font-size : 18px;
     font-weight: bold;}
 
 p{
     font-size: 8;
 }
+
+/* CSS'te yorum satırı böyle yapılır! */
