@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> CSS: The descendant selector </title>
+    <style>
+       /* Makes all em tags underneath a ul have a red background*/
+        ul em{
+            background-color: rgb(255,182,182);
+        }
+        /* Makes all strong tags underneath a ul have a violet background*/
+        ul strong{
+            background-color: rgb(237, 221, 255);
+        }
+        ol li{
+            font-size: 12;
+            font-family: 'Times New Roman', Times, serif;
+            color:aqua;
+
+        }
+    </style>
+</head>
+<!-- <body>
+    <h2>The three laws of robotics</h2>
+    <p>These laws, also known as <strong>Asimov's Laws</strong> were originally formulated by scientifiction author Isaac. Asimov in the 1940s, but they're now referrred to in movies <em>and</em> the news.</p>
+    <ul>
+        <li>
+            A robot may not injure a human being or through inaction, allow a human being to come to harm.
+        </li>
+        <li>
+            A robot must obey the orders given to it by human beings, <em>except</em> where such orders would conflict with the First Law.
+        </li>
+        <li>
+            A robot must protect its own existance <em>as long as</em> such protection <strong>does not conflict</strong> with the First or Second Law.
+        </li>
+
+    </ul>
+
+</body>
+<body>
+  
+    <ol>
+        <h1>Ordered List</h1>    
+        <li>I Robot</li>
+        <li>Terminator</li>
+        <li>Wall-e</li>     
+    </ol>
+    <ul>  <Burası, css style kısmında belirtilmediği için ordered listesindeki özellikler buraya uygulanmaz.   
+        <li>I Robot</li>
+        <li>Terminator</li>
+        <li>Wall-e</li>     
+    </ul>
+  
+</body>
+-->
+
+<body>
+    <section class="main content">
+        <h1>Heading here</h1>
+        <p>Lorem ipsum dolor sit amet,</p>
+        <p>Lorem ipsum dolor <em>sit</em> amet,</p>
+        <hr />  
+    </section>
+    <nav class="main-nav">
+        <ul>
+            <li>item 1</li>
+            <li>item 2</li>
+            <li>item 3</li>
+        </ul>
+    </nav>
+</body>
+
+</html>
