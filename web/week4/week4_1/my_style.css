@@ -5,3 +5,7 @@ body{background-color: pink;
 h1{color: blue;}
 h2{font-size : 18px;
     font-weight: bold;}
+
+p{
+    font-size: 8;
+}
