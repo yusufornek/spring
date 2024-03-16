@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hafta4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b108fa449481c8495c21d741dc342383594bf6da")]
 [assembly: System.Reflection.AssemblyProductAttribute("hafta4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hafta4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
