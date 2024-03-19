@@ -23,12 +23,21 @@
             color: red;
             font-size: 20px;
         }
+
+        .yesilrenk {
+            color: green;
+        } 
+        
+        .sari{
+            background-color: yellow;
+        }
+
     </style> <!-- style etiketi ile css kodları yazabiliriz -->
 </head>
 
 <body>
 
-    <h1>
+    <h1 class = "sari"> <!-- class ile css kodlarına erişiriz --> 
         <center>Vize Çalışmaları</center>
     </h1> <!-- center etiketi ile h1 etiketini ortalarız -->
     <hr> <!-- yatay çizgi ekler -->
@@ -41,7 +50,7 @@
         asperiores excepturi!
     </p> <!-- mark etiketi ile arka planı sarı olan bir metin oluşturur -->
 
-    <p><em>Lorem ipsum,</em> dolor sit amet <i>consectetur</i> adipisicing elit. Repellendus, saepe.</p>
+    <p class ="sari"><em>Lorem ipsum,</em> dolor sit amet <i>consectetur</i> adipisicing elit. Repellendus, saepe.</p>
     <p>X<sup>2</sup></p> <!-- üst alma simgesi -->
 
     <ul>
@@ -62,15 +71,15 @@
     <br><br><br> <!-- boşluk bırakır -->
     <ul>
         <li>
-            <p>Cumhuriyetimizin 100. Yılı Kutlamalarının koordinasyonu ve yürütülmesi görevi, 24 Ekim 2020 tarihli Resmî
+            <p class = "yesilrenk">Cumhuriyetimizin 100. Yılı Kutlamalarının koordinasyonu ve yürütülmesi görevi, 24 Ekim 2020 tarihli Resmî
                 Gazete’de yayımlanan, 2020/13 sayılı “100. Yıl Kutlamaları” konulu Cumhurbaşkanlığı Genelgesi ile
                 İletişim Başkanlığına tevdi edilmiştir. Bu çerçevede, Cumhuriyetimizin 100. Yıl Kutlamaları kapsamında
                 kamu kurum ve kuruluşlarının katılımıyla gerçekleştirilecek etkinlikler İletişim Başkanlığı
                 koordinasyonunda yürütülmektedir. Kurtuluş mücadelemizin köklü hatırasını yaşatmak, istiklalden
                 istikbale köprüler kurmak adına hem ülkemizin dört bir yanında hem de yurt dışı temsilciliklerimizde
-                etkinlikleri ve projeleri büyük bir coşkuyla hayata geçireceğiz.
+                etkinlikleri ve projeleri büyük bir coşkuyla hayata geçireceğiz. 
 
-            </p> <!-- iç içe etiketler -->
+            </p> <!-- iç içe etiketler --> <!-- class ile css kodlarına erişiriz -->
         </li>
         <li>
             <p>Lorem ipsum dolor sit.</p>
@@ -104,7 +113,7 @@
 
     <a href="https://www.yuzuncuyil.gov.tr/" target="_blank">100.YIL</a> <!-- a etiketi ile link oluştururuz -->
 
-
+    
 
 
 </body>
