@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test2\\Desktop\\spring\\oop\\week5\\week5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18307B42-6151-44FE-BBD6-4F1EAC056973}|week5\\week5.csproj|c:\\users\\test2\\desktop\\spring\\oop\\week5\\week5\\week5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18307B42-6151-44FE-BBD6-4F1EAC056973}|week5\\week5.csproj|solutionrelative:week5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18307B42-6151-44FE-BBD6-4F1EAC056973}|week5\\week5.csproj|c:\\users\\test2\\desktop\\spring\\oop\\week5\\week5\\week5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18307B42-6151-44FE-BBD6-4F1EAC056973}|week5\\week5.csproj|solutionrelative:week5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\test2\\Desktop\\spring\\oop\\week5\\week5\\week5\\Class1.cs",
+              "RelativeDocumentMoniker": "week5\\Class1.cs",
+              "ToolTip": "C:\\Users\\test2\\Desktop\\spring\\oop\\week5\\week5\\week5\\Class1.cs",
+              "RelativeToolTip": "week5\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T12:24:14.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test2\\Desktop\\spring\\oop\\week5\\week5\\week5\\Program.cs",
+              "RelativeDocumentMoniker": "week5\\Program.cs",
+              "ToolTip": "C:\\Users\\test2\\Desktop\\spring\\oop\\week5\\week5\\week5\\Program.cs",
+              "RelativeToolTip": "week5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:06:46.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
