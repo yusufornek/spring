@@ -1,0 +1,14 @@
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\bin\Debug\net8.0\car.exe
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\bin\Debug\net8.0\car.deps.json
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\bin\Debug\net8.0\car.runtimeconfig.json
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\bin\Debug\net8.0\car.dll
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\bin\Debug\net8.0\car.pdb
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\obj\Debug\net8.0\car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\obj\Debug\net8.0\car.AssemblyInfoInputs.cache
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\obj\Debug\net8.0\car.AssemblyInfo.cs
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\obj\Debug\net8.0\car.csproj.CoreCompileInputs.cache
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\obj\Debug\net8.0\car.dll
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\obj\Debug\net8.0\refint\car.dll
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\obj\Debug\net8.0\car.pdb
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\obj\Debug\net8.0\car.genruntimeconfig.cache
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\car\car\obj\Debug\net8.0\ref\car.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|c:\\users\\test2\\desktop\\bugrametinozdemir\\q3\\car\\car\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|solutionrelative:car\\togg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|c:\\users\\test2\\desktop\\bugrametinozdemir\\q3\\car\\car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|solutionrelative:car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|c:\\users\\test2\\desktop\\bugrametinozdemir\\q3\\car\\car\\anadol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|solutionrelative:car\\anadol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|c:\\users\\test2\\desktop\\bugrametinozdemir\\q3\\car\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|solutionrelative:car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|c:\\users\\test2\\desktop\\bugrametinozdemir\\q3\\car\\car\\ford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B389C8-D9A0-430C-A62D-B40FF3A282E9}|car\\car.csproj|solutionrelative:car\\ford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\car.cs",
+              "RelativeDocumentMoniker": "car\\car.cs",
+              "ToolTip": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\car.cs",
+              "RelativeToolTip": "car\\car.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:27:28.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FORD.cs",
+              "DocumentMoniker": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\FORD.cs",
+              "RelativeDocumentMoniker": "car\\FORD.cs",
+              "ToolTip": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\FORD.cs",
+              "RelativeToolTip": "car\\FORD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:24:18.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ANADOL.cs",
+              "DocumentMoniker": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\ANADOL.cs",
+              "RelativeDocumentMoniker": "car\\ANADOL.cs",
+              "ToolTip": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\ANADOL.cs",
+              "RelativeToolTip": "car\\ANADOL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:12:16.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TOGG.cs",
+              "DocumentMoniker": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\TOGG.cs",
+              "RelativeDocumentMoniker": "car\\TOGG.cs",
+              "ToolTip": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\TOGG.cs",
+              "RelativeToolTip": "car\\TOGG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:11:37.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\Program.cs",
+              "RelativeDocumentMoniker": "car\\Program.cs",
+              "ToolTip": "C:\\Users\\test2\\Desktop\\BugraMetinOzdemir\\Q3\\car\\car\\Program.cs",
+              "RelativeToolTip": "car\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA8wBEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:11:09.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
