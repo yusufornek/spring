@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>Rezervasyon Formu</h1>
+    <form action="cong.jpg" method="post"> <!-- Post ile Get arasındaki farklar nelerdir? KSS -->
+        <fieldset>
+            <legend>Rezervasyon Formu</legend>
+            <p>Tur tarihleri ve indirimlerden haberdar olun</p>
+            <table>
+                <tr><td><label for="firstlast">Ad:</label></td></tr>
+                    <td><input type="text" id="firstlast" name="username"></td></tr>
+                <tr><td><label for="secondlast">Soyad:</label></td></tr>
+                    <td><input type="text" id="secondlast" name="username"></td></tr>
+                <tr><td><label for="password">Şifreniz:</label></td></tr>
+                    <td><input type="password" id="password" name="password"></td></tr>
+                    <td><input type="checkbox" onclick="myFunction()"></td>
+                <tr><td><label for ="email">E-posta:</label></td></tr>
+                    <td><input type="text" id="email" name="email" placeholder="example@example.com"></td></tr>
+                <tr><td>Adresiniz:</td></tr>
+                <tr><td>Lütfen ikamet adresinizi yazınız.</td></tr>    
+                    <td><textarea cols="50" rows="15" id="adress" name="adress"></textarea></td>
+                <tr><td> Fatura Adresiniz:</td></tr>
+                <tr><td>Fatura adresinizi eksiksik bir şekilde giriniz.</td></tr>
+                    <td><textarea cols="50" rows="5" id="billadress" name="billadress" placeholder="50 words or less"></textarea></td> <!-- Placeholder şu işe yarar: Kutunun içine yazı yazdığınızda yazı kaybolur. -->
+                <tr><td></td></tr>
+                    <td><input type="submit" value="Gönder"></td>
+                    <td><input type="reset" value="Reset"></td>
+            </table>
+        </fieldset>
+    </form>
+</body>
+</html>
