@@ -1,0 +1,14 @@
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\obj\Debug\net8.0\week8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\obj\Debug\net8.0\week8.AssemblyInfoInputs.cache
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\obj\Debug\net8.0\week8.AssemblyInfo.cs
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\obj\Debug\net8.0\week8.csproj.CoreCompileInputs.cache
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\bin\Debug\net8.0\week8.exe
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\bin\Debug\net8.0\week8.deps.json
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\bin\Debug\net8.0\week8.runtimeconfig.json
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\bin\Debug\net8.0\week8.dll
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\bin\Debug\net8.0\week8.pdb
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\obj\Debug\net8.0\week8.dll
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\obj\Debug\net8.0\refint\week8.dll
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\obj\Debug\net8.0\week8.pdb
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\obj\Debug\net8.0\week8.genruntimeconfig.cache
+C:\Users\test2\Desktop\BugraMetinOzdemir\Q3\week8\week8\obj\Debug\net8.0\ref\week8.dll
