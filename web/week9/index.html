@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The optgroup element</h1>
+
+<p>The optgroup tag is used to group related options in a drop-down list:</p>
+
+<form action="/action_page.php">
+  <label for="coffees">Kahve seçiniz:</label><br>
+  <select name="coffees" size = "5" multiple>
+    <optgroup label="Swedish Cars">
+      <option value="volvo">Volvo</option>
+      <option value="saab">Saab</option>
+    </optgroup>
+    <optgroup label="German Cars">
+      <option value="mercedes">Mercedes</option>
+      <option value="audi">Audi</option>
+    </optgroup>
+  </select>
+  <br><br>
+  <input type="submit" value="Submit"> <br> <br>
+
+  <form action="musteri.php" methot="post" enctype="multipart/form-data">
+    <label>Lütfen dosyanızı seçiniz!
+    <em>(isteğe bağlı)</em>
+    <label><input type="file" name="dosyam" size = "28"></label><br>
+
+    <input type="date" name="name" value="2024-05-14">
+    <input type="time" name="name" value="13:04:00"><br>
+
+    <label>Öğrenci Sayısı</label><input type="number" name="ogrenci" min="1" max="10" value="10"><br>
+    <label>Dersten Memnuniyet (0-10) <input type="range" name="Memnuniyet" min="0" max="10" step="1"></label>
+</form>
+ 
+</body>
+</html>

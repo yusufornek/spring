@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kişisel Bilgi Formu</title>
+</head>
+<body>
+    <h2>Kişisel Bilgi Formu</h2>
+    <form action="/submit" method="post" onsubmit="return validateForm()">
+    <label for="ad">Ad:</label><br>
+    <input type="text" id="ad" name="ad" required><br>
+    <label for="soyad">Soyad:</label><br>
+    <input type="text" id="soyad" name="soyad" required><br>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required><br>
+    <label for="tel">Telefon:</label><br>
+    <input type="tel" id="tel" name="tel" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="5xx-xxx-xxxx" required><br><br>
+
+    <label for="dogum_tarihi">Doğum Tarihi:</label><br>
+    <input type="date" id="dogum_tarihi" name="dogum_tarihi" required><br><br>
+    <label>Cinsiyet:</label><br>
+    <input type="radio" id="erkek" name="cinsiyet" value="erkek" required>
+    <label for="erkek">Erkek</label><br>
+    <input type="radio" id="kadin" name="cinsiyet" value="kadin" required>
+    <label for="kadin">Kadın</label><br>
+    <input type="radio" id="diger" name="cinsiyet" value="diger" required>
+    <label for="diger">Diğer</label><br><br>
+
+    <label for="yas">Yaş:</label><br>
+    <input type="number" id="yas" name="yas" min="0" max="120" required><br><br>
+    <label for="gelir">Aylık Gelir</label><br>
+    <input type="range" id="gelir" name="gelir" min="0" max="10000" step="100" value="5000" required><br>
+    <output for="gelir" id="gelir_output">12000 TL</output><br><br>
+
+    <label>Kullandığınız İşletim Sistemi:</label><br>
+    <input type="checkbox" id="windows" name="os" value="windows">
+    <label for="windows">Windows</label><br>
+    <input type="checkbox" id="macos" name="os" value="macos">
+    <label for="macos">MacOS</label><br>
+    <input type="checkbox" id="linux" name="os" value="linux">
+    <label for="linux">Linux</label><br><br>
+
+
+    <label for="sehir">Yaşadığınız Şehir:</label><br>
+
+
+    <label for="progDilleri">Bildiğiniz programlama dilleri:</label><br>
+    <select id="progDilleri" name="progDilleri" multiple size="4">
+        <optgroup label="Veri Bilimi">
+            <option value="python">Python</option>
+            <option value="r">R</option>
+        </optgroup>
+        <optgroup label="Web Programlama">
+            <option value="html">HTML</option>
+            <option value="css">CSS</option>
+            <option value="js">JavaScript</option>
+            <option value="php">PHP</option>
+        </optgroup>
+        <optgroup label="Masaüstü Programlama">
+            <option value="java">Java</option>
+            <option value="c">C</option>
+            <option value="cpp">C++</option>
+        </optgroup>
+    </select><br><br>
+
+    <label for="mesaj">Mesajınız:</label><br>
+    <textarea id="mesaj" name="mesaj" rows="4" cols="50" ></textarea><br><br>
+    <br>
+    <input type="submit" value="Gönder">
+    <input type="reset" value="Formu Temizle">
+    </form>
+
+    <script>
+        var gelirInput = document.getElementById("gelir");
+        var output = document.getElementById("gelir_output");
+        gelirInput.oninput = function() {
+            output.innerHTML = this.value + " TL";
+        }
+        <function validateForm(){
+            var Telefon = document.getElementById('telefon').value;
+            var TelefonPattern = /^[0-9]{3}-[0-9]{3}-[0-9]{4}$/;
+
+            if(!TelefonPattern.test(Telefon)){
+                alert("Geçerli bir telefon numarası olmalıdır!");
+                return false;
+            }
+            return true;
+        }
+        </script>
+
+
+
+
+    </script>
+        
+    
+    
+    
+    
+    
+    
+    </form>
+</body>
+</html>
