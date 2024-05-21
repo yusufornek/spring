@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Alıştırma</title>
+    <style type ="text/css">
+        .checkhed{
+            color: red;
+        }
+        .unchecked{
+            color: red;
+        }
+        </style>
+</head>
+<body>
+    <h1>Checkbox Control Example</h1>
+    <input type="checkbox" id="my_cb"> I accept the terms of us.
+    <button onclick="checkMyCb()">submit</button>
+    <p id="myResult"></p>
+    <script>
+        function checkMyCb(){
+            var checkb = document.getElementById("my_cb");
+            var myRes = document.getElementById("myResult");
+        if(checkb.checked){
+            myRes.textContent = "Accepted"
+            myRes.className="checked";
+        } else{
+            myRes.textContent="Please read and accept the terms of use.";
+            myRes.className="unchecked";
+        }
+    }
+    </script>
+
+    <h2>İletişim İzni</h2>
+    <p id="my_sms_onay">SMS için onay veriyor musunuz?</p>
+    <input type="radio" id="my_rb1" name="my_rb"> Evet
+    <input type="radio" id="my_rb2" name="my_rb"> Hayır
+    <button onclick="my_sms_onay()">Onay</button>
+    <script>
+        function my_sms_onay(){
+            var rb1 = document.getElementById("my_rb1");
+            var rb2 = document.getElementById("my_rb2");
+            var mySms = document.getElementById("my_sms_onay");
+            if(rb1.checked){
+                mySms.textContent = "SMS için onay verildi.";
+                mySms.className="checked";
+            } else if(rb2.checked){
+                mySms.textContent = "SMS için onay verilmedi.";
+                mySms.className="unchecked";
+            } else{
+                mySms.textContent = "Lütfen bir seçim yapınız.";
+                mySms.className="unchecked";
+            }
+        }
+    </script>
+</body>
+</html>

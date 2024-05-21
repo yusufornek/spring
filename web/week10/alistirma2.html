@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript ile sayı kontrolü</title>
+</head>
+<body>
+    <p>Memnuniyetinizi ifade etmek için lütfen 1-10 arasında bir sayı giriniz: </p>
+    <input id="memnuniyet">
+    <button type="button" onclick="sayi_kontrol()">Gönder</button>
+    <p id="hataMetni"></p>
+    <script>
+        function sayi_kontrol(){
+            let x =document.getElementById("memnuniyet").value;
+            let text;
+            if(isNaN(x) || x<1 || x>10){
+                text="Girdi hatalı! Lütfen yalnızca 1-10 arasında bir sayı giriniz.";
+            } else{
+                text="Cevabınız başarı ile alınmıştır. Teşekkür ederiz!";
+            }
+            document.getElementById("hataMetni").innerHTML=text;
+        }
+    </script>
+</body>
+</html>
